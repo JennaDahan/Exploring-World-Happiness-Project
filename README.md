@@ -4,7 +4,7 @@
 ### **Purpose**
 - Analyse how happiness differs across the world and how different factors can have an impact on happiness. 
 
-## Questions to Explore
+### Questions to Explore
 - Top 5 countries that have the higest happiness score.
 - Top 5 countries that have the lowest happiness score.
 - What is the correlaton between economy and the happiness score?
