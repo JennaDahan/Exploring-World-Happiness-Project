@@ -1,7 +1,7 @@
 # Exploring-World-Happiness-Project
 
 
-## Purpose
+### **Purpose**
 - Analyse how happiness differs across the world and how different factors can have an impact on happiness. 
 
 ## Questions to Explore
