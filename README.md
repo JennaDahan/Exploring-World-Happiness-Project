@@ -3,7 +3,7 @@
 
 
 ### Purpose
-- Analyse how **happiness** differs across the world and how different factors can have an impact on happiness. 
+- Analyse how **happiness** differs across the world and how different factors can have an impact on the happiness score. 
 
 ### Specific Tasks to Explore in SQL
 - Top 5 countries that have the highest happiness score.
@@ -25,3 +25,5 @@
 
 ### Dataset Source
 - Retrieved the [World Happiness Dataset](https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2015.csv) from Kaggle.
+
+### Final Result
