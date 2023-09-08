@@ -8,12 +8,16 @@
 ### Questions to Explore
 - Top 5 countries that have the highest happiness score.
 - Top 5 countries that have the lowest happiness score.
+-  How does the happiness score compare from 2015 to 2017 amongst each region?
 - What is the correlation between the economy and the happiness score?
 - What is the correlation between family and the happiness score?
 - What is the correlation between life expectancy and the happiness score?
 - What is the correlation between generosity and the happiness score?
+
+want to delete these:
 - How does the top 5 countries' happiness scores compare from 2015 to 2017?
 - How does the lowest 5 countries' happiness scores compare from 2015 to 2017?
+
 
 ### Tools Utilized
 - Database: PostgreSQL
