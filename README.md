@@ -1,7 +1,7 @@
 # Exploring-World-Happiness-Project
 ![image](https://github.com/JennaDahan/Exploring-World-Happiness-Project/assets/142054522/3b50a3ad-0f52-4827-a00a-170327fcc8a3)
 ### Purpose
-- Analyse how **happiness** differs across the world and how different factors can have an impact on the happiness score. 
+- To analyse how **happiness** differs across the world and how different factors can have an impact on the happiness score. 
 
 ### Specific Tasks to Explore in SQL - Need to Edit
 - Top 5 countries that have the highest happiness score.
