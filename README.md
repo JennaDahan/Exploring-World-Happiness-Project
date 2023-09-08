@@ -27,3 +27,4 @@
 - Retrieved the [World Happiness Dataset](https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2015.csv) from Kaggle.
 
 ### Final Result
+- [World Happiness Exploration via SQL](https://github.com/JennaDahan/Exploring-World-Happiness-Project/blob/main/HappinessExploration_Query.sql)
