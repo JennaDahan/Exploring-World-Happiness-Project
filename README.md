@@ -19,13 +19,13 @@
 - How did the happiness score look and compare around the world in 2015?
 - How did the happiness score look and compare in different regions in 2015?
 
+### Final Results
+- [World Happiness Exploration via SQL](https://github.com/JennaDahan/Exploring-World-Happiness-Project/blob/main/HappinessExploration_Query.sql)
+- [World Happiness Visualizations via Tableau](https://public.tableau.com/views/WorldHappiness_Maybe/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ### Tools Utilized
 - Database: PostgreSQL
 - Visualization: Tableau Public 
 
 ### Dataset Source
 - Retrieved the [World Happiness Dataset](https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2015.csv) from Kaggle.
-
-### Final Results
-- [World Happiness Exploration via SQL](https://github.com/JennaDahan/Exploring-World-Happiness-Project/blob/main/HappinessExploration_Query.sql)
-- [World Happiness Visualizations via Tableau](https://public.tableau.com/views/WorldHappiness_Maybe/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
