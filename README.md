@@ -4,6 +4,16 @@
 - To analyse how **happiness** differs across the world and how different factors can have an impact on the happiness score. 
 
 ### Specific Tasks to Explore in SQL - Need to Edit
+- **Task 1**: Create table and upload file for each dataset (2015 dataset, 2016 dataset, 2017 dataset)
+- **Task 2**: Explore each dataset
+- **Task 3**: Identify the countries and regions that have the highest happiness score in each year
+- **Task 4**: Identify the countries that have the lowest happiness score in each year
+- **Task 5**: Identify the correlation between the economy and the happiness score in each year
+- **Task 6**: Identify the correlation between family and the happiness score in each year
+- **Task 7**: Identify the correlation between life expectancy and the happiness score in each year
+- **Task 8**: Identify the correlation between generosity and the happiness score in each year
+- **Task 9**: Compare the average happiness score amongst each region in each year
+  
 - Top 5 countries that have the highest happiness score.
 - Top 5 countries that have the lowest happiness score.
 -  How does the happiness score compare from 2015 to 2017 amongst each region?
