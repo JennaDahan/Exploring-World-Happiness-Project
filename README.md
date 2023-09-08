@@ -5,7 +5,7 @@
 ### Purpose
 - Analyse how **happiness** differs across the world and how different factors can have an impact on the happiness score. 
 
-### Specific Tasks to Explore in SQL
+### Specific Tasks to Explore in SQL - Need to Edit
 - Top 5 countries that have the highest happiness score.
 - Top 5 countries that have the lowest happiness score.
 -  How does the happiness score compare from 2015 to 2017 amongst each region?
