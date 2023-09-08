@@ -13,14 +13,6 @@
 - **Task 7**: Identify the correlation between life expectancy and the happiness score in each year
 - **Task 8**: Identify the correlation between generosity and the happiness score in each year
 - **Task 9**: Compare the average happiness score amongst each region in each year
-  
-- Top 5 countries that have the highest happiness score.
-- Top 5 countries that have the lowest happiness score.
--  How does the happiness score compare from 2015 to 2017 amongst each region?
-- What is the correlation between the economy and the happiness score?
-- What is the correlation between family and the happiness score?
-- What is the correlation between life expectancy and the happiness score?
-- What is the correlation between generosity and the happiness score?
 
 ### Questions to Visualize in Tableau
 - How do different factors impact the happiness score in 2015?
