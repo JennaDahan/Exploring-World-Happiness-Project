@@ -1,7 +1,5 @@
 # Exploring-World-Happiness-Project
-![image](https://github.com/JennaDahan/Exploring-World-Happiness-Project/assets/142054522/dca789eb-9b2d-4ace-9aed-fba1165f59f6)
 ![image](https://github.com/JennaDahan/Exploring-World-Happiness-Project/assets/142054522/3b50a3ad-0f52-4827-a00a-170327fcc8a3)
-![image](https://github.com/JennaDahan/Exploring-World-Happiness-Project/assets/142054522/e99ba407-404b-4548-8070-b2afcc12c240)
 
 
 
