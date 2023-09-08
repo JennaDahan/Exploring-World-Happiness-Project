@@ -2,7 +2,6 @@
 ![image](https://github.com/JennaDahan/Exploring-World-Happiness-Project/assets/142054522/3b50a3ad-0f52-4827-a00a-170327fcc8a3)
 
 
-
 ### Purpose
 - Analyse how **happiness** differs across the world and how different factors can have an impact on happiness. 
 
