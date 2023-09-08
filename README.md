@@ -5,7 +5,7 @@
 ### Purpose
 - Analyse how **happiness** differs across the world and how different factors can have an impact on happiness. 
 
-### Questions to Explore
+### Specific Tasks to Explore in SQL
 - Top 5 countries that have the highest happiness score.
 - Top 5 countries that have the lowest happiness score.
 -  How does the happiness score compare from 2015 to 2017 amongst each region?
@@ -14,14 +14,14 @@
 - What is the correlation between life expectancy and the happiness score?
 - What is the correlation between generosity and the happiness score?
 
-want to delete these:
-- How does the top 5 countries' happiness scores compare from 2015 to 2017?
-- How does the lowest 5 countries' happiness scores compare from 2015 to 2017?
-
+### Questions to Visualize in Tableau
+- How do different factors impact the happiness score in 2015?
+- How did the happiness score look and compare around the world in 2015?
+- How did the happiness score look and compare in different regions in 2015?
 
 ### Tools Utilized
 - Database: PostgreSQL
-- Tableau Public 
+- Visualization: Tableau Public 
 
 ### Dataset Source
 - Retrieved the [World Happiness Dataset](https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2015.csv) from Kaggle.
