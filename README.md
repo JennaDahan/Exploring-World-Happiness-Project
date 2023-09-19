@@ -1,5 +1,5 @@
 # Exploring-World-Happiness-Project
-![image](https://github.com/JennaDahan/Exploring-World-Happiness-Project/assets/142054522/3b50a3ad-0f52-4827-a00a-170327fcc8a3)
+![image]([https://github.com/JennaDahan/Exploring-World-Happiness-Project/assets/142054522/3b50a3ad-0f52-4827-a00a-170327fcc8a3](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fsmiley-face&psig=AOvVaw2b9SgtbnQao1UPqd4n3DNH&ust=1695249755408000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCID0-s3ft4EDFQAAAAAdAAAAABAI))
 ### Purpose
 - To analyse how **happiness** differs across the world and how different factors can have an impact on the happiness score. 
 
