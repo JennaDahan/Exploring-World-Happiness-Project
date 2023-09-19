@@ -4,7 +4,7 @@
 ### Purpose
 - To analyse how **happiness** differs across the world and how **different factors** can have an impact on the happiness score. 
 
-### Specific Tasks to Explore in SQL - Need to Edit
+### Specific Tasks to Explore in SQL 
 - **Task 1**: Create table and upload file for each dataset (2015 dataset, 2016 dataset, 2017 dataset).
 - **Task 2**: Explore each dataset.
 - **Task 3**: Identify the countries and regions that have the highest happiness score in each year.
