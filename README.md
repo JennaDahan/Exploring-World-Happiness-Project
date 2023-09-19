@@ -2,7 +2,7 @@
 ![smiley](https://github.com/JennaDahan/Exploring-World-Happiness-Project/assets/142054522/1ec2ace6-4b74-4336-813a-68b93a043762)
 
 ### Purpose
-- To analyse how **happiness** differs across the world and how **different factors** can have an impact on the happiness score. 
+- To analyse how **happiness** differs across the world and how **different factors** can have an impact on the happiness score in 2015. 
 
 ### Specific Tasks to Explore in SQL 
 - **Task 1**: Create table and upload file for each dataset (2015 dataset, 2016 dataset, 2017 dataset).
